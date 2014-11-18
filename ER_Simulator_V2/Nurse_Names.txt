@@ -1,0 +1,8 @@
+Nurse.Whatever
+Nurse.Screwthis
+Nurse.Tapthat
+Nurse.HammerTime
+Nurse.Pound
+Nurse.600Pound
+Nurse.Cannon
+Nurse.Dead
